@@ -1,0 +1,13 @@
+.container {
+    position:absolute;
+    left: 50%;
+    top: 50%;
+}
+
+#sayı{
+    font-size: 30px;
+}
+
+#arttırma,#azaltma{
+    size: 30px solid;
+}
